@@ -1,2 +1,4 @@
 # meg_ls
-My personal repo
+Hi :blush:
+
+- I'm learning how to use Git & GitHub :computer:
